@@ -17,7 +17,7 @@
     <UnityProjectType>Game:1</UnityProjectType>
     <UnityBuildTarget>StandaloneOSXUniversal:2</UnityBuildTarget>
     <UnityVersion>5.6.1f1</UnityVersion>
-    <RootNamespace>Tienkio</RootNamespace>
+    <RootNamespace>Dödsmatch.io</RootNamespace>
     <LangVersion>4</LangVersion>
     <NoConfig>true</NoConfig>
     <NoStdLib>true</NoStdLib>
